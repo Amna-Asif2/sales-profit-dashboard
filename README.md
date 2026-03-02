@@ -62,7 +62,7 @@ The goal of this project is to practice:
 
 ## 📸 Dashboard Preview
 
-**
+*sales.png*
 
 ---
 
