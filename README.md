@@ -62,7 +62,7 @@ The goal of this project is to practice:
 
 ## 📸 Dashboard Preview
 
-*sales-profit-dashboard/tree/main/sales.png*
+*[sales-profit-dashboard/tree/main/sales.png](https://github.com/Amna-Asif2/sales-profit-dashboard/blob/main/sales.png)*
 
 ---
 
